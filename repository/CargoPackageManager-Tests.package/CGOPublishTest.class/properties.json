@@ -1,0 +1,15 @@
+{
+	"category" : "CargoPackageManager-Tests-Publishing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"defaultPackageRepository",
+		"localRepository" ],
+	"name" : "CGOPublishTest",
+	"pools" : [
+		 ],
+	"super" : "CGOTest",
+	"type" : "normal" }

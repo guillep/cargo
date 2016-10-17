@@ -4,6 +4,7 @@
 		 ],
 	"classvars" : [
 		"DefaultPackageRepository",
+		"LocalCache",
 		"PlatformAttributes" ],
 	"commentStamp" : "ChristopheDemarey 7/10/2015 13:42",
 	"instvars" : [

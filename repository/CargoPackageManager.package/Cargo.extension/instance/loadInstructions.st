@@ -4,6 +4,4 @@ loadInstructions
 	resolution := CGOSolver new
 		addRepository: Cargo defaultPackageRepository;
 		solveDependency: self rootDependency.
-	^ CGOLoadInstructionsBuilder new
-		resolution: resolution;
-		loadInstructions
+	^ resolution loadInstructions

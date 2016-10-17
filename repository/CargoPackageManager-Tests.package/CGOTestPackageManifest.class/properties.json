@@ -1,0 +1,14 @@
+{
+	"category" : "CargoPackageManager-Tests-Publishing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CGOTestPackageManifest",
+	"pools" : [
+		 ],
+	"super" : "PackageManifest",
+	"type" : "normal" }

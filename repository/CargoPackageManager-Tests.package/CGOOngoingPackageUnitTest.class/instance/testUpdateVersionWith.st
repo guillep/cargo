@@ -1,6 +1,6 @@
 tests-updating
 testUpdateVersionWith
-	ongoingPkg manifest class compile: 'version ^ ''0.1.0-dev'''.
+	ongoingPkg manifest compile: 'version ^ ''0.1.0-dev'''.
 	ongoingPkg updateVersionWith: '1.0'.
 	self 
 		assert: ongoingPkg manifest version
