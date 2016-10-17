@@ -1,0 +1,1 @@
+I am a package manifest used by the tests. Check CGOPublishTest for usages.
