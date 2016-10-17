@@ -1,3 +1,3 @@
 accessing
 repositories
-	^ self workingCopy repositoryGroup remotes collect: [ :each | each location ]
+	^ self workingCopy repositoryGroup remotes collect: [ :each | each url ]
