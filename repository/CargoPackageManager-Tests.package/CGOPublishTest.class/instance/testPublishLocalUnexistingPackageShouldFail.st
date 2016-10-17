@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testPublishLocalUnexistingPackageShouldFail
 
 	self should: [Cargo new

@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testPublishLocalDefaultVersionShouldBe010dev
 
 	Cargo new

@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testPublishShouldPublishAlsoInLocalCache
 
 	Cargo new
