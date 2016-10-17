@@ -1,7 +1,7 @@
 running
 setUp
 
-	| wc mcrepository |
+	| mcrepository |
 	super setUp.
 
 	"We create an artificial working copy to let the test continue"

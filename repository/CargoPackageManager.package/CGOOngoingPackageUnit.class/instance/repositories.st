@@ -1,3 +1,3 @@
 accessing
 repositories
-	^ manifest repositories
+	^ self workingCopy repositoryGroup remotes collect: [ :each | each location ]
