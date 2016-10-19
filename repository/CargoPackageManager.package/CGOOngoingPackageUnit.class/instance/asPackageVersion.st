@@ -1,5 +1,6 @@
 converting
 asPackageVersion
+
 	^ CGOPackageVersion newFrom: 
 		( Dictionary new
 			add: #package -> self packageName asSymbol;
