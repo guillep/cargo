@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testPublishLocalPackageWithoutWorkingCopyShouldFail
 
 	self should: [Cargo new

@@ -7,9 +7,10 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"defaultPackageRepository",
-		"localRepository" ],
+		"localRepository",
+		"wc" ],
 	"name" : "CGOPublishTest",
 	"pools" : [
 		 ],
-	"super" : "CGOTest",
+	"super" : "TestCase",
 	"type" : "normal" }
